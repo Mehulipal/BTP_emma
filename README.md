@@ -2,6 +2,7 @@
 
 - Link to Research Paper: https://arxiv.org/pdf/2105.11903.pdf  
 - Link to Midsem Demo Video: https://youtu.be/blng5mUKr4A
+- Link to Report - https://docs.google.com/document/d/1SeK9U3x34AsNJUvETUgZZilA8321J--ZTOEqTPlMLm0/edit?usp=sharing 
 - Drive link for Code Implementation: https://drive.google.com/drive/folders/1w0VIjS_2_2qq8Y26F-BDlJDo_-qAzHBb?usp=sharing 
 - Link to Training Code: https://colab.research.google.com/drive/14HiuNXjuj4YJ-FtXeuaIOgekYdWQT6MT?usp=sharing 
 - Link to End Semester Presentation: https://docs.google.com/presentation/d/1HeEkDh3AeGZNJv9DyayeG2BxE99qhooQ7VAxie7yh0w/edit?usp=sharing 
